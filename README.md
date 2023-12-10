@@ -1,7 +1,7 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-<img src="Certificate/Temp/temp.jpg" width="1000">
 
-## Created by Bal Yogesh Surath
+
+## Created by Hunter Sparrow
 
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
@@ -37,5 +37,5 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
 # My Certificate of Completion :tada:
-<img src="Certificate/Certificate.jpg" width="1000">
+
 
